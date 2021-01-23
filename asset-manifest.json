@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f33e0cd6.chunk.css",
+    "main.js": "/static/js/main.5b7a2862.chunk.js",
+    "main.js.map": "/static/js/main.5b7a2862.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e615fad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e615fad.js.map",
+    "static/js/2.cb77b8cc.chunk.js": "/static/js/2.cb77b8cc.chunk.js",
+    "static/js/2.cb77b8cc.chunk.js.map": "/static/js/2.cb77b8cc.chunk.js.map",
+    "static/css/3.e1205338.chunk.css": "/static/css/3.e1205338.chunk.css",
+    "static/js/3.1456bb59.chunk.js": "/static/js/3.1456bb59.chunk.js",
+    "static/js/3.1456bb59.chunk.js.map": "/static/js/3.1456bb59.chunk.js.map",
+    "static/css/4.19dfc3d0.chunk.css": "/static/css/4.19dfc3d0.chunk.css",
+    "static/js/4.1aa97842.chunk.js": "/static/js/4.1aa97842.chunk.js",
+    "static/js/4.1aa97842.chunk.js.map": "/static/js/4.1aa97842.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f27bc3a4e6c5d3ed3a2a02b51b266ca0.js": "/precache-manifest.f27bc3a4e6c5d3ed3a2a02b51b266ca0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.e1205338.chunk.css.map": "/static/css/3.e1205338.chunk.css.map",
+    "static/css/4.19dfc3d0.chunk.css.map": "/static/css/4.19dfc3d0.chunk.css.map",
+    "static/css/main.f33e0cd6.chunk.css.map": "/static/css/main.f33e0cd6.chunk.css.map",
+    "static/js/2.cb77b8cc.chunk.js.LICENSE.txt": "/static/js/2.cb77b8cc.chunk.js.LICENSE.txt",
+    "static/media/2048_logo.png": "/static/media/2048_logo.8a1e53a9.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/RIT.png": "/static/media/RIT.a3e3d398.png",
+    "static/media/RPO.jpg": "/static/media/RPO.9416df17.jpg",
+    "static/media/Snake.jpg": "/static/media/Snake.6b12f28b.jpg",
+    "static/media/UdemyLogo.png": "/static/media/UdemyLogo.a13a6139.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/filatiron.jpg": "/static/media/filatiron.86347868.jpg",
+    "static/media/pluralsight.jpg": "/static/media/pluralsight.01c3d58b.jpg",
+    "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e615fad.js",
+    "static/js/2.cb77b8cc.chunk.js",
+    "static/css/main.f33e0cd6.chunk.css",
+    "static/js/main.5b7a2862.chunk.js"
+  ]
+}
