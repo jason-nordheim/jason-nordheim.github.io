@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0622af7cfb530f7feb2578e9ced76331",
+    "revision": "091c5939e57863f3e4b7aa245b14bbe1",
     "url": "/index.html"
   },
   {
-    "revision": "8d672d0736867a3bc330",
+    "revision": "a13575ea834acfffa266",
     "url": "/static/css/3.e1205338.chunk.css"
   },
   {
-    "revision": "740c730b758bafe67c1d",
+    "revision": "b9a471e068cf082cae24",
     "url": "/static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "96215183d87d108afb41",
-    "url": "/static/css/main.97c5766a.chunk.css"
+    "revision": "045798d4abf845cf7bca",
+    "url": "/static/css/main.bd6c2f6d.chunk.css"
   },
   {
-    "revision": "88188445237e390a8acb",
-    "url": "/static/js/2.5093b434.chunk.js"
+    "revision": "469e32472c77692ce33e",
+    "url": "/static/js/2.b6f21a06.chunk.js"
   },
   {
     "revision": "d0d8190170b812713050bd2e6e947e19",
-    "url": "/static/js/2.5093b434.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b6f21a06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d672d0736867a3bc330",
-    "url": "/static/js/3.59006819.chunk.js"
+    "revision": "a13575ea834acfffa266",
+    "url": "/static/js/3.c81abaa8.chunk.js"
   },
   {
-    "revision": "740c730b758bafe67c1d",
-    "url": "/static/js/4.edbca8e9.chunk.js"
+    "revision": "b9a471e068cf082cae24",
+    "url": "/static/js/4.7dde4798.chunk.js"
   },
   {
-    "revision": "96215183d87d108afb41",
-    "url": "/static/js/main.a2936574.chunk.js"
+    "revision": "045798d4abf845cf7bca",
+    "url": "/static/js/main.9ca92d48.chunk.js"
   },
   {
-    "revision": "6139246a2596852ec823",
-    "url": "/static/js/runtime-main.edfd37be.js"
+    "revision": "fbdaec159d3b1613c1bc",
+    "url": "/static/js/runtime-main.20899eab.js"
   },
   {
     "revision": "8a1e53a9f2a7fb5adbed554e1996c5f5",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a13a6139cf7efe2a6091e58d3368f11e",
     "url": "/static/media/UdemyLogo.a13a6139.png"
+  },
+  {
+    "revision": "37c8c62dea8a077f860ab17b47478ff6",
+    "url": "/static/media/chatter-one.37c8c62d.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
