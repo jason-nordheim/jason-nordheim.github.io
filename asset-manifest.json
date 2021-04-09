@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.bd6c2f6d.chunk.css",
-    "main.js": "/static/js/main.39b15874.chunk.js",
-    "main.js.map": "/static/js/main.39b15874.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.20899eab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.20899eab.js.map",
-    "static/js/2.b6f21a06.chunk.js": "/static/js/2.b6f21a06.chunk.js",
-    "static/js/2.b6f21a06.chunk.js.map": "/static/js/2.b6f21a06.chunk.js.map",
+    "main.js": "/static/js/main.c8da7d85.chunk.js",
+    "main.js.map": "/static/js/main.c8da7d85.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a22efba9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a22efba9.js.map",
+    "static/js/2.c281c252.chunk.js": "/static/js/2.c281c252.chunk.js",
+    "static/js/2.c281c252.chunk.js.map": "/static/js/2.c281c252.chunk.js.map",
     "static/css/3.e1205338.chunk.css": "/static/css/3.e1205338.chunk.css",
-    "static/js/3.c81abaa8.chunk.js": "/static/js/3.c81abaa8.chunk.js",
-    "static/js/3.c81abaa8.chunk.js.map": "/static/js/3.c81abaa8.chunk.js.map",
+    "static/js/3.bf7b8bbf.chunk.js": "/static/js/3.bf7b8bbf.chunk.js",
+    "static/js/3.bf7b8bbf.chunk.js.map": "/static/js/3.bf7b8bbf.chunk.js.map",
     "static/css/4.19dfc3d0.chunk.css": "/static/css/4.19dfc3d0.chunk.css",
-    "static/js/4.7dde4798.chunk.js": "/static/js/4.7dde4798.chunk.js",
-    "static/js/4.7dde4798.chunk.js.map": "/static/js/4.7dde4798.chunk.js.map",
+    "static/js/4.a91e4fa3.chunk.js": "/static/js/4.a91e4fa3.chunk.js",
+    "static/js/4.a91e4fa3.chunk.js.map": "/static/js/4.a91e4fa3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b27fd6dab299ca1adba4710708469b0d.js": "/precache-manifest.b27fd6dab299ca1adba4710708469b0d.js",
+    "precache-manifest.fc4f350891924fd55c3b9977769cc2bd.js": "/precache-manifest.fc4f350891924fd55c3b9977769cc2bd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.e1205338.chunk.css.map": "/static/css/3.e1205338.chunk.css.map",
     "static/css/4.19dfc3d0.chunk.css.map": "/static/css/4.19dfc3d0.chunk.css.map",
     "static/css/main.bd6c2f6d.chunk.css.map": "/static/css/main.bd6c2f6d.chunk.css.map",
-    "static/js/2.b6f21a06.chunk.js.LICENSE.txt": "/static/js/2.b6f21a06.chunk.js.LICENSE.txt",
+    "static/js/2.c281c252.chunk.js.LICENSE.txt": "/static/js/2.c281c252.chunk.js.LICENSE.txt",
     "static/media/2048_logo.png": "/static/media/2048_logo.8a1e53a9.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/RIT.png": "/static/media/RIT.a3e3d398.png",
@@ -37,9 +37,9 @@
     "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20899eab.js",
-    "static/js/2.b6f21a06.chunk.js",
+    "static/js/runtime-main.a22efba9.js",
+    "static/js/2.c281c252.chunk.js",
     "static/css/main.bd6c2f6d.chunk.css",
-    "static/js/main.39b15874.chunk.js"
+    "static/js/main.c8da7d85.chunk.js"
   ]
 }
